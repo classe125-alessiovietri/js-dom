@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lightcoral {
+    color: lightcoral;
+}
+
+.bordered {
+    border: 3px dashed red;
+}
+
+.lined-through {
+    text-decoration: line-through;
+}
